@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "985541032275",
+    "firebase_url": "https://mydentalscore.firebaseio.com",
+    "project_id": "mydentalscore",
+    "storage_bucket": "mydentalscore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985541032275:android:4fce0aef8139b7df",
+        "android_client_info": {
+          "package_name": "com.example.suniv.mydentalscore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985541032275-kf98gh158ho2dj3djno662cocjo3aeks.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.suniv.mydentalscore",
+            "certificate_hash": "41ecc4bf58d0371db7b402ef2aa0ee23e28fe682"
+          }
+        },
+        {
+          "client_id": "985541032275-1vq8e5up2i4a00dsn9b5rapiqmn98uh3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFG0zKACCLYiat6OR51chpTNPk6knMSCY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985541032275-1vq8e5up2i4a00dsn9b5rapiqmn98uh3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

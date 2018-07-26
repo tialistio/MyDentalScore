@@ -44,6 +44,8 @@ public class HomeActiviy extends AppCompatActivity
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
         navigationView.setNavigationItemSelectedListener(this);
 
+        //login--->>>>>>
+
         TextView login = (TextView)findViewById(R.id.tv_login);
 
         login.setMovementMethod(LinkMovementMethod.getInstance()); //---> add underline when clicked
@@ -56,6 +58,7 @@ public class HomeActiviy extends AppCompatActivity
             }
         });
     }
+        //-------------->>>>>>>>>>>
 
     @Override
     public void onBackPressed() {
